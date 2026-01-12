@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+flask
+streamlit
+requests
+folium
+streamlit-folium
+twilio
+python-dotenv
+joblib
